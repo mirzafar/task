@@ -1,0 +1,7 @@
+1)127.0.0.1:8000/rest/substr/&message=
+2)127.0.0.1:8000/rest/email/check/?email=
+4)POST 127.0.0.1:8000/rest/user/?first_name=&last_name=
+  GET 127.0.0.1:8000/rest/user/1
+  PUT 127.0.0.1:8000/rest/user/1
+  DELETE 127.0.0.1:8000/rest/user/1
+5)127.0.0.1:8000/rest/hash/calc/?message=
